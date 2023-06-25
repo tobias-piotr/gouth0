@@ -1,4 +1,4 @@
-module gouth0
+module github.com/tobias-piotr/gouth0
 
 go 1.20
 

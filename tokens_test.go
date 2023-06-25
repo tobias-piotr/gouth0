@@ -1,4 +1,4 @@
-package main
+package gouth0
 
 import (
 	"crypto/rand"
