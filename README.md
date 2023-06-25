@@ -59,7 +59,7 @@ func main() {
 With that in place, you can simply start decoding JWT tokens with the `DecodeToken` method:
 
 ```go
-package main
+package main 
 
 import (
     "fmt"
